@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanyam Jain
+- 👋 Hi, I’m Sanyam Jain
 - 👀 I’m interested in Project Management & Management Works
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Management Works
